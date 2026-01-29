@@ -29,6 +29,8 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![YugabyteDB](https://img.shields.io/badge/YugabyteDB-FF6F00?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 📊 Visualization & Monitoring
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
