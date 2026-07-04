@@ -1,10 +1,13 @@
-# 💫 About Me:
-🐍 Python automation for monitoring, audits, compliance checks, and RCA<br>
-🗄️ SQL & multi-database systems (Sybase ASE, Snowflake, YugabyteDB, SingleStore)<br>
-📊 Power BI, Tableau & Excel dashboards for health, SLA, and governance KPIs<br>
-🔍 Data governance, data quality, metadata management, and entitlement reviews<br>
-⚙️ Site reliability engineering, job monitoring, replication, and production support<br>
-🐧 Linux-based systems, server migrations, and reliability improvements
+# 👨‍💻 About Me:
+
+🐍 Building Python automation for ETL, monitoring, compliance, audits, and root cause analysis
+⚡ Developing data pipelines with Azure Databricks, PySpark, Delta Lake, and Azure Data Factory
+🗄️ Working with SQL and enterprise databases including Snowflake, Sybase ASE, YugabyteDB, and SingleStore
+📊 Creating Power BI, Tableau, and Excel dashboards for SLA tracking, operational health, and business KPIs
+🔍 Passionate about data governance, data quality, metadata management, lineage, and access control
+⚙️ Experienced in site reliability, workflow orchestration, production support, database migrations, and replication
+🐧 Linux enthusiast with experience in automation, performance optimization, and enterprise platform reliability
+🚀 Databricks Certified Data Engineer Professional | Data Engineering | Cloud Data Platforms | Analytics
 
 ---
 
